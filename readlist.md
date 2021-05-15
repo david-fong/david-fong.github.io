@@ -136,6 +136,8 @@ https://medium.com/@iamstan/typescript-es-modules-micheal-jackson-2040216be793
 https://nodejs.org/api/esm.html#esm_enabling
 ```
 
+- [](https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77)
+
 ### Browser Core
 
 - [Event Ordering - quirksmode.org](https://www.quirksmode.org/js/events_order.html#link4)
