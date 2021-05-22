@@ -3,6 +3,8 @@
 
 ![ASETHIOR keyboard layout draft](./asethior.png)
 
+(Play with this keyboard draft by pluggin [./asethior.json](./asethior.json) into [this site](http://www.keyboard-layout-editor.com/))
+
 ## Personal Motivation
 
 Disclaimer: I'm not making any attempt to say that these problems are considered problems by anyone other than myself.
