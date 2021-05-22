@@ -1,6 +1,8 @@
 
 # Rethinking Keyboard Layout
 
+![ASETHIOR keyboard layout draft](./asethior.png)
+
 ## Personal Motivation
 
 Disclaimer: I'm not making any attempt to say that these problems are considered problems by anyone other than myself.
