@@ -8,6 +8,11 @@ git ls-files | command grep -E '*.ts$' | awk '{print "unexpand --tabs=4 --first-
 ```
 
 ```sh
+# Git chmod
+git update-index --chmod=+x path/to/file
+```
+
+```sh
 # Make the TypeScript compiler use tabs for indentation.
 # https://github.com/Microsoft/TypeScript/issues/4042
 #sed -i 's/"    "/"\\t"/g' node_modules/typescript/lib/*.js
