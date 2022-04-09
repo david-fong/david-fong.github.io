@@ -39,5 +39,6 @@ du -s $(find $(find node_modules/ -name 'package\.json' -printf "%h\n" | sort -u
 
 ```typescript
 // fast large-json-serializable-object initialization
+// https://v8.dev/blog/cost-of-javascript-2019#json
 `JSON.parse('${jsonStr.replace(/[\\']/g, "\\$&")}')`
 ```
